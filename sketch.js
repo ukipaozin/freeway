@@ -14,5 +14,4 @@ function setup() {
 function draw() {
   background(estrada);
   image(ator, 100, 450, 30, 30);
-  
 }
